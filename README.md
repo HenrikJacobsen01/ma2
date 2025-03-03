@@ -5,9 +5,7 @@
 ### Group members
 | Student name | Student ID |
 | --- | --- |
-| #NAME# | #ID# |
-| #NAME# | #ID# |
-| #NAME# | #ID# |
+| Jan Henrik Magnus Jacobsen | 176136 |
 
 ***
 
